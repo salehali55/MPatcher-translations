@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="entries_lang">
+		<item>الروسية</item>
+		<item>الأوكرانية</item>
+		<item>الإنجليزية</item>
+		<item>اليونانية</item>
+		<item>الألمانية</item>
+		<item>الإيطالية</item>
+		<item>التركية</item>
+		<item>الفيتنامية</item>
+		<item>البلغارية</item>
+		<item>فارسی</item>
+		<item>עברית</item>
+		<item>中文</item>
+	</string-array>
+	<string-array name="values_lang">
+		<item>ru</item>
+		<item>uk</item>
+		<item>ar</item>
+		<item>el</item>
+		<item>de</item>
+		<item>it</item>
+		<item>tr</item>
+		<item>vi</item>
+		<item>bg</item>
+		<item>fa</item>
+		<item>he</item>
+		<item>zh</item>
+	</string-array>
+	<string-array name="keys">
+		<item>editorkey</item>
+		<item>الوسائط</item>
+		<item>الرصيف</item>
+		<item>مشترك</item>
+		<item>testkey</item>
+	</string-array>
+	<string-array name="open_titles">
+		<item>من ملف</item>
+		<item>إنشاء جديد</item>
+	</string-array>
+	<string-array name="open_startup">
+		<item>@string/all_scripts</item>
+		<item>@string/favorites</item>
+	</string-array>
+	<string-array name="open_startup_values">
+		<item>0</item>
+		<item>1</item>
+	</string-array>
+	<string-array name="sort_titles">
+		<item>الفرز حسب الاسم (تصاعدي)</item>
+		<item>الفرز حسب الاسم (تنازلي)</item>
+		<item>الفرز حسب التاريخ (تصاعدي)</item>
+		<item>الفرز حسب التاريخ (تنازلي)</item>
+	</string-array>
+	<string-array name="sort_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array>
+	<string-array name="themes_titles">
+		<item>فاتح</item>
+		<item>غامق</item>
+		<item>أسود</item>
+	</string-array>
+	<string-array name="themes_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="shortcut_titles">
+		<item>مربع حوار</item>
+		<item>الإشعار</item>
+		<item>النافذة</item>
+	</string-array>
+	<string-array name="shortcut_values">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+	<string-array name="export_exts">
+		<item>.mpatch</item>
+		<item>.mpatch.zip</item>
+		<item>.sh</item>
+	</string-array>
+	<string-array name="item_options">
+		<item>تشغيل</item>
+		<item>التطبيق على ملف/مجلد</item>
+		<item>تحرير</item>
+		<item>الوصف</item>
+		<item>تصدير</item>
+		<item>المفضلة</item>
+		<item>حذف</item>
+		<item>إنشاء إختصار</item>
+		<item>إعادة تعيين</item>
+	</string-array>
+	<string-array name="google_translator_codes">
+		<item>af</item>
+		<item>sq</item>
+		<item>am</item>
+		<item>en</item>
+		<item>hy</item>
+		<item>az</item>
+		<item>eu</item>
+		<item>be</item>
+		<item>bn</item>
+		<item>bs</item>
+		<item>bg</item>
+		<item>ca</item>
+		<item>ceb</item>
+		<item>ny</item>
+		<item>zh-cn</item>
+		<item>zh-tw</item>
+		<item>co</item>
+		<item>ساعة</item>
+		<item>cs</item>
+		<item>da</item>
+		<item>nl</item>
+		<item>ar</item>
+		<item>eo</item>
+		<item>et</item>
+		<item>tl</item>
+		<item>fi</item>
+		<item>fr</item>
+		<item>fy</item>
+		<item>gl</item>
+		<item>ka</item>
+		<item>de</item>
+		<item>el</item>
+		<item>gu</item>
+		<item>ht</item>
+		<item>ha</item>
+		<item>haw</item>
+		<item>iw</item>
+		<item>hi</item>
+		<item>hmn</item>
+		<item>hu</item>
+		<item>يكون</item>
+		<item>ig</item>
+		<item>id</item>
+		<item>ga</item>
+		<item>it</item>
+		<item>ja</item>
+		<item>jw</item>
+		<item>kn</item>
+		<item>kk</item>
+		<item>km</item>
+		<item>ko</item>
+		<item>ku</item>
+		<item>ky</item>
+		<item>lo</item>
+		<item>la</item>
+		<item>lv</item>
+		<item>lt</item>
+		<item>lb</item>
+		<item>mk</item>
+		<item>mg</item>
+		<item>ms</item>
+		<item>ml</item>
+		<item>mt</item>
+		<item>mi</item>
+		<item>mr</item>
+		<item>mn</item>
+		<item>my</item>
+		<item>ne</item>
+		<item>لا</item>
+		<item>ps</item>
+		<item>fa</item>
+		<item>pl</item>
+		<item>pt</item>
+		<item>ma</item>
+		<item>ro</item>
+		<item>ru</item>
+		<item>sm</item>
+		<item>gd</item>
+		<item>sr</item>
+		<item>st</item>
+		<item>sn</item>
+		<item>sd</item>
+		<item>si</item>
+		<item>sk</item>
+		<item>sl</item>
+		<item>so</item>
+		<item>es</item>
+		<item>su</item>
+		<item>sw</item>
+		<item>sv</item>
+		<item>tg</item>
+		<item>ta</item>
+		<item>te</item>
+		<item>th</item>
+		<item>tr</item>
+		<item>uk</item>
+		<item>ur</item>
+		<item>uz</item>
+		<item>vi</item>
+		<item>cy</item>
+		<item>xh</item>
+		<item>yi</item>
+		<item>yo</item>
+		<item>zu</item>
+		<item>أو</item>
+		<item>pa</item>
+		<item>rw</item>
+		<item>tt</item>
+		<item>tk</item>
+		<item>ug</item>
+	</string-array>
+	<string-array name="google_translator_names">
+		<item>الأفريقية</item>
+		<item>الألبانية</item>
+		<item>الأمهرية</item>
+		<item>العربية</item>
+		<item>الأرمينية</item>
+		<item>الأذربيجانية</item>
+		<item>الباسكية أو البشكنشية الإسبانية</item>
+		<item>البيلاروسية</item>
+		<item>البنغالية</item>
+		<item>البوسنية</item>
+		<item>البلغارية</item>
+		<item>الكتالانية الإسبانية</item>
+		<item>سيبوانو</item>
+		<item>الشيشيوا</item>
+		<item>الصينية المبسطة</item>
+		<item>الصينية التقليدية</item>
+		<item>الكورسيكيه</item>
+		<item>الكرواتية</item>
+		<item>التشيكية</item>
+		<item>الدانماركية</item>
+		<item>الهولندية</item>
+		<item>الإنجليزية</item>
+		<item>إسبرانتو</item>
+		<item>الإستونية</item>
+		<item>فيلبيني</item>
+		<item>الفنلندية</item>
+		<item>الفرنسية</item>
+		<item>الفريزية</item>
+		<item>الغاليشية</item>
+		<item>الجورجية</item>
+		<item>الألمانية</item>
+		<item>اليونانية</item>
+		<item>الغواجاراتية الهندية</item>
+		<item>هايتي</item>
+		<item>الهوسا</item>
+		<item>هاواي</item>
+		<item>العبرية</item>
+		<item>الهندية</item>
+		<item>الهمونغ</item>
+		<item>المجرية</item>
+		<item>الأيسلندية</item>
+		<item>الإيغبو</item>
+		<item>الإندونيسية</item>
+		<item>الأيرلندية</item>
+		<item>الإيطالية</item>
+		<item>اليابانية</item>
+		<item>الجاويه</item>
+		<item>الكنادية الهندية</item>
+		<item>الكازاخية</item>
+		<item>الخميرية الكمبودية</item>
+		<item>الكورية</item>
+		<item>الكردية (الكرمانجي)</item>
+		<item>القرقيزية</item>
+		<item>اللاوية</item>
+		<item>لاتينيه</item>
+		<item>اللاتفية</item>
+		<item>اللتوانية</item>
+		<item>اللوكسمبرجية</item>
+		<item>مقدوني</item>
+		<item>الملغاشيه</item>
+		<item>الملايو</item>
+		<item>المالايلامية</item>
+		<item>المالطية</item>
+		<item>الماوورية</item>
+		<item>الماراتية الهندية</item>
+		<item>المنغولية</item>
+		<item>ميانمار (البورمية)</item>
+		<item>النيبالية</item>
+		<item>النرويجية ‏</item>
+		<item>الباشتو</item>
+		<item>الفارسية</item>
+		<item>البولندية</item>
+		<item>البرتغالية</item>
+		<item>البنجابية</item>
+		<item>الرومانية</item>
+		<item>الروسية</item>
+		<item>ساموا</item>
+		<item>الإسكتلندية الغالية</item>
+		<item>الصربية</item>
+		<item>سيسوتو</item>
+		<item>شونا</item>
+		<item>السندية</item>
+		<item>السنهالية</item>
+		<item>السلوفاكية</item>
+		<item>السلوفانية</item>
+		<item>صومالي</item>
+		<item>الإسبانية</item>
+		<item>السوندية</item>
+		<item>السواحلية</item>
+		<item>السويدية</item>
+		<item>الطاجيكي</item>
+		<item>التاميلية الهندية</item>
+		<item>التيلوغوية الهندية</item>
+		<item>التايلاندية</item>
+		<item>التركية</item>
+		<item>الأوكرانية</item>
+		<item>الأوردية</item>
+		<item>الأوزبكية</item>
+		<item>الفيتنامية</item>
+		<item>الويلزية</item>
+		<item>زوسا</item>
+		<item>الييديه</item>
+		<item>اليوروبا</item>
+		<item>الزولوية</item>
+		<item>الأوريا</item>
+		<item>البنجابية</item>
+		<item>رواندا</item>
+		<item>التترية</item>
+		<item>التركمانية</item>
+		<item>الويغورية</item>
+	</string-array>
+</resources>
